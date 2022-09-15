@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
         <dimen name="editTextHeight">35dp</dimen>
+        <dimen name="marginLength">35dp</dimen>
+        <dimen name="padding">35dp</dimen>
 </resources>
