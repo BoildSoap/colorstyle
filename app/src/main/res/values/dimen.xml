@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-        <dimen name="editTextHeight">35dp</dimen>
-        <dimen name="editTextWidth">35dp</dimen>
+        <dimen name="editTextHeight">50dp</dimen>
+        <dimen name="editTextWidth">140dp</dimen>
+        <dimen name="titleTextSize">30dp</dimen>
         <dimen name="textViewHeight">35dp</dimen>
         <dimen name="textViewLength">35dp</dimen>
         <dimen name="marginLength">35dp</dimen>
